@@ -10,7 +10,7 @@
     transition: .2s;
     display: flex;
     margin: 5px auto;
-    color: var(--global-bg);
+    color: rgb(53, 232, 53);
     padding: 15px;
     border-radius: 40px;
     background: var(--search-result-title);
@@ -21,7 +21,7 @@ button {
     padding: 0;
     outline: 0;
     border: none;
-    background: 20 30;
+    background: 0 0;
     cursor: pointer;
     touch-action: manipulation;
 }
@@ -39,5 +39,5 @@ button {
 
 .addBtn button:hover {
     background: var(--theme-color);
-    color: #fff;
+    color: #2de674;
 }
