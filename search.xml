@@ -93,27 +93,13 @@
     
     
     <entry>
-      <title>Hello copy</title>
-      <link href="/2024/03/19/Hello%20copy/"/>
-      <url>/2024/03/19/Hello%20copy/</url>
+      <title>Hi copy</title>
+      <link href="/2024/03/19/Hi%20copy/"/>
+      <url>/2024/03/19/Hi%20copy/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
-      <categories>
-          
-          <category> java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Markdown </tag>
-            
-            <tag> 外挂标签 </tag>
-            
-        </tags>
       
     </entry>
     
@@ -147,13 +133,27 @@
     
     
     <entry>
-      <title>Hi copy</title>
-      <link href="/2024/03/19/Hi%20copy/"/>
-      <url>/2024/03/19/Hi%20copy/</url>
+      <title>Hello copy</title>
+      <link href="/2024/03/19/Hello%20copy/"/>
+      <url>/2024/03/19/Hello%20copy/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> 外挂标签 </tag>
+            
+        </tags>
       
     </entry>
     
