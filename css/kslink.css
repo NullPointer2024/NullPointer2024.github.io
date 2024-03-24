@@ -21,7 +21,7 @@ button {
     padding: 0;
     outline: 0;
     border: none;
-    background: 0 0;
+    background: 20 30;
     cursor: pointer;
     touch-action: manipulation;
 }
