@@ -1774,7 +1774,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: 14px;
-  font-family: Consolas_1, "Microsoft YaHei", Menlo, "PingFang SC", "Microsoft JhengHei", sans-serif !important;
+  font-family: Consolas_1, -apple-system,"Microsoft YaHei", Menlo, "PingFang SC", "Microsoft JhengHei", sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
